@@ -1,0 +1,10 @@
+var city = "Tashkent";
+console.log(city.toUpperCase());
+var first_variable;
+first_variable = "Bukhara";
+first_variable = first_variable.toUpperCase();
+console.log(first_variable);
+var second_variable;
+second_variable = "Samarkand";
+second_variable = second_variable.toUpperCase();
+console.log(second_variable);

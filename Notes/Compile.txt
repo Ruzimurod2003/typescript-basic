@@ -1,0 +1,2 @@
+tsc [file_name].ts 
+Bu TypeScriptni JavaScriptga o'girib beradi.
